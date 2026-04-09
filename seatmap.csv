@@ -1,0 +1,20 @@
+type,name,row,col,rowspan,colspan,color
+room,대회의실,1,1,2,1,gray
+room,R&D Center,3,1,2,1,blue
+ceo,CEO|이소형,1,2,1,1,pink
+ceo,COO|김아리,1,3,1,1,pink
+room,회의실,1,4,1,1,gray
+person,정언식,2,2,1,2,teal
+person,고정인,3,2,1,1,teal
+person,김미란,3,3,1,1,teal
+empty,공석,4,2,1,1,orange
+person,정의찬,4,3,1,1,teal
+person,이아라,5,2,1,2,pink
+person,신의철,2,4,1,2,green
+person,정귀오,3,4,1,1,green
+person,이주석,3,5,1,1,purple
+person,최제열,4,4,1,1,green
+person,최다희,4,5,1,1,purple
+person,홍순기,5,4,1,2,green
+person,김지아,3,1,1,1,blue
+person,박찬하,4,1,1,1,blue
